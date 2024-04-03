@@ -9,7 +9,7 @@ export default function Home() {
         <div className="absolute inset-0 bg-black opacity-70"></div> {/* Dark overlay */}
         <p className="bg-yellow-100 opacity-70 text-xs border absolute top-5 border-yellow-300 px-4 py-1 rounded-full">Website Under Development 🟡👷‍♂️</p>
         <div className="text-white text-center z-10">
-          <h1 className="text-3xl lg:text-7xl font-semibold py-6">Detox your Body and Mind</h1>
+          <h1 className="text-3xl lg:text-7xl font-semibold py-6">Cleanse & Detox, Heal, Revialatize & Regenerate</h1>
           <p className="text-sm lg:text-base">
             Revitalize Your Body and Mind, Discover Inner Peace at Our Healing Detox Retreat Center
           </p>
